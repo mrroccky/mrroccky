@@ -38,6 +38,11 @@ Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/d
   <a href = "mailto:rakeshbhure4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://chat.whatsapp.com/CVtuPneNvLD5quqJ3A1DnW" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
  
+ 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+  
+  
+
  
 </div>
